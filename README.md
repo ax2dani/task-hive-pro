@@ -201,12 +201,16 @@ curl -u admin:password123 http://localhost:3000/api/tasks
 
 ## 📸 Screenshots (Add Your Own)
 
-(Replace placeholders with real images)
 
 * **Dashboard View**
+  <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7e9b5771-a4a9-474d-b338-dc93e58b71e9" />
+
 * **Create Task Modal**
+  <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/49330f35-fff5-465b-b373-1f8c5431007b" />
+
 * **Audit Logs View**
-* **Mobile Responsive Layout**
+  <img width="1889" height="913" alt="image" src="https://github.com/user-attachments/assets/9da8a069-b88b-46cb-946f-9e8d3e930037" />
+
 
 ---
 
