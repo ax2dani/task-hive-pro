@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ab6f6db7-d224-4e90-9eae-2b0a99a4f7e9",
+    "timestamp": "2025-11-21T10:42:32.983Z",
+    "action": "DELETE",
+    "taskId": "ba265a50-e986-4993-b33d-8049a9bd0292",
+    "details": null
+  },
+  {
+    "id": "94ac8cc6-3846-4c31-89a3-b3a4f1e76bf7",
+    "timestamp": "2025-11-21T10:42:18.279Z",
+    "action": "CREATE",
+    "taskId": "ba265a50-e986-4993-b33d-8049a9bd0292",
+    "details": {
+      "title": "Implementing the basic UI",
+      "description": "Customize the current UI with the user requirements."
+    }
+  }
+]
